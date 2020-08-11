@@ -6,6 +6,5 @@ m=str(num)*3
 
 res= num+int(n)+int(m)
 
-print(f"Самая большая цифра в числе: {res}")
-
+print(f"Результат: {res}")
 
