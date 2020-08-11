@@ -16,3 +16,4 @@ name = input("Введите ваше имя: ")
 num = int(input("Введите любое целое число: "))
 
 print('Hello', name, 'ваше число', num)
+
