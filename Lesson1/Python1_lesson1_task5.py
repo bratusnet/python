@@ -12,7 +12,11 @@ else:
     print(f"Рентабильность фирмы: {rent}")
 ch = int(input("Введите численность сотрудников фирмы: "))
 ps=pribil/ch
-print(f"Прибыль на сотрудника: {ps} руб")
+while num > 10:
+    d = num % 10
+    num //= 10
+    if d > result:
+        result = d
 
 
 
