@@ -1,0 +1,5 @@
+Ivanov 25000
+Petrov 19000
+Sidirov 30000
+Smith 22000
+Jackson 15000
